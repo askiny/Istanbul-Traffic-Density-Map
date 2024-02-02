@@ -7,7 +7,7 @@ In this project, a Heat Map of Istanbul Traffic Density was created using the 'H
 - Creating Heat Map with Longitude, Latitude, Average Speed and Number of Vehicles Columns.
 - Top 25 of Average Numbers of Vehicles
 - Top 25 of Highest Average Speed
-- top 25 of Lowest Average Speed
+- Top 25 of Lowest Average Speed
 
 # Libraries Used
 
